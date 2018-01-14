@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ssh
 
 #### Table of Contents
@@ -87,3 +88,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# puppet-ssh
+>>>>>>> 5cfd9b8fa56bb7c3fb8ff1dbc48acdfec37926c4
